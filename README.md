@@ -1,22 +1,31 @@
-# Róbert Kovács
-<h3 align="center">Software Engineer | Full-Stack Web & Mobile Developer</h3>
+<h3 align="center">👋 Hey there, I’m Róbert Kovács</h3>
+<p align="center">Software Engineer | Full-Stack Web & Mobile Developer</p>
 
 <p align="center">
 Computer Science graduate and current Master’s student in <b>Enterprise Software Design & Development</b><br>
 at <b>Babeș-Bolyai University</b>.
 </p>
 
-<p align="center">
+<p align="center" >
 Passionate about building <b>scalable, maintainable, and well-structured software systems</b>.<br>
 Focused on clean architecture, practical problem-solving, and delivering real-world impact through high-quality code.<br>
 Driven by curiosity and continuous learning, exploring enterprise systems, modern web/mobile frameworks, and emerging AI technologies.
 </p>
 
----
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/robert-kovacs-5340bb181/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+ 
+</div>
 
 ###
 
-<h2 align="left">🧑‍💻 Skills</h2>
+<h3 align="left">🧑‍💻 Skills</h3>
+
+---
 
 ###
 
@@ -104,14 +113,6 @@ Driven by curiosity and continuous learning, exploring enterprise systems, moder
 </div>
 
 ## 🚀 Current Focus
+- Building scalable web & mobile applications  
+- Expanding expertise in AI & LLM technologies
 
-- Designing enterprise-grade, scalable backend systems  
-- Developing full-stack applications with modern web & mobile frameworks  
-- Exploring AI-driven solutions, including GenAI and LLM integrations
-
-
-## 🤝 Let’s Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/robert-kovacs-5340bb181">LinkedIn</a>
-</p>
